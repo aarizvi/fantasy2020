@@ -9,8 +9,8 @@ const puppeteer = require("puppeteer");
   //  await page.waitFor('input[type="email"]')
 
   /*
-    await page.type('input[type="email"]', "aarizvi")
-    await page.type('input[type="password"]', "Peteiscool16x!")
+    await page.type('input[type="email"]', "XXXXX")
+    await page.type('input[type="password"]', "XXXXX")
     await page.click('button[label="Log In"]')
   
     */
