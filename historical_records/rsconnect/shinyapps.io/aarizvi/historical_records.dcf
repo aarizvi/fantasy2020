@@ -1,0 +1,10 @@
+name: historical_records
+title:
+username:
+account: aarizvi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2701407
+bundleId: 3551827
+url: https://aarizvi.shinyapps.io/historical_records/
+when: 1598285090.96188
